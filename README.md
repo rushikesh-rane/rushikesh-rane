@@ -5,90 +5,125 @@
 <h3 align="center">Front-End Developer • Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+Responsive+Web+Experiences;Learning+JavaScript;Next+Stop:+React;Open+to+Front-End+Internships" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+Responsive+Web+Experiences;Learning+JavaScript;Next+Stop:+React;Open+to+Front-End+Internships"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rushikesh-rane&label=Profile%20Views&color=00B4D8&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/rushikesh-rane?style=for-the-badge&color=00B4D8"/>
+<a href="https://github.com/rushikesh-rane">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/rushikesh-rane-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rushikeshrane.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
 ```ts
 const rushikesh = {
-  role: "Front-End Developer",
-  education: "B.E. Computer Engineering",
-  location: "Mumbai, India",
-  currentlyLearning: ["JavaScript", "Responsive Design"],
-  nextStep: "React",
-  interests: ["UI/UX", "Modern Web Development", "Performance"],
-  goal: "Front-End Internship"
+    role: "Front-End Developer",
+    education: "B.E. Computer Engineering",
+    location: "Mumbai, India",
+
+    currentlyLearning: [
+        "JavaScript"
+    ],
+
+    nextGoal: [
+        "React",
+        "Portfolio Website",
+        "Front-End Internship"
+    ]
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎮 RushPlays
+## 🎮 RushPlays
+
 Steam-inspired gaming storefront built using HTML5 and CSS3.
 
-- 🌐 Live Demo: https://rushikesh-rane.github.io/RushPlays/
-- 💻 Repository: https://github.com/rushikesh-rane/RushPlays
+🌐 **Live Demo**
 
-### 🎬 RushTube
+https://rushikesh-rane.github.io/RushPlays/
+
+💻 **Repository**
+
+https://github.com/rushikesh-rane/RushPlays
+
+---
+
+## 🎬 RushTube
+
 Responsive YouTube-inspired homepage built using HTML5 and CSS3.
 
-- 🌐 Live Demo: https://rushikesh-rane.github.io/RushTube/
-- 💻 Repository: https://github.com/rushikesh-rane/RushTube
+🌐 **Live Demo**
+
+https://rushikesh-rane.github.io/RushTube/
+
+💻 **Repository**
+
+https://github.com/rushikesh-rane/RushTube
 
 ---
 
-## 🎯 Current Roadmap
+# 🎯 Current Roadmap
 
-- ✅ HTML5
-- ✅ CSS3
-- 🔄 JavaScript
-- ⬜ React
-- ⬜ Portfolio Website
-- ⬜ Front-End Internship
+```text
+✅ HTML5
 
----
+✅ CSS3
 
-## 📊 GitHub Stats
+🔄 JavaScript
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rushikesh-rane&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh-rane&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+⬜ React
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rushikesh-rane&theme=tokyonight&hide_border=true"/>
-</p>
+⬜ Portfolio Website
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rushikesh-rane&theme=tokyo-night&hide_border=true"/>
-</p>
+⬜ Front-End Internship
+```
 
 ---
 
-## 📫 Connect
+# 📈 GitHub Activity
 
-<p align="left">
-<a href="https://github.com/rushikesh-rane">GitHub</a> •
-<a href="https://linkedin.com/in/rushikesh-rane-dev">LinkedIn</a> •
-<a href="mailto:rushikeshrane.dev@gmail.com">Email</a>
+> I believe consistent contributions matter more than profile widgets.
+
+You can view all of my recent work and commits directly on my repositories.
+
+---
+
+# 📫 Connect
+
+- GitHub: https://github.com/rushikesh-rane
+- LinkedIn: https://linkedin.com/in/rushikesh-rane-dev
+- Email: rushikeshrane.dev@gmail.com
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
 </p>
 
 <p align="center">
