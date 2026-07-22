@@ -5,7 +5,7 @@
 <h3 align="center">Front-End Developer • Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+Responsive+Web+Experiences;Learning+JavaScript;Next+Stop:+React;Open+to+Front-End+Internships"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+Responsive+Web+Experiences;Building+with+Vanilla+JavaScript;Next+Stop:+React;Open+to+Front-End+Internships"/>
 </p>
 
 <p align="center">
@@ -33,12 +33,13 @@ const rushikesh = {
     location: "Mumbai, India",
 
     currentlyLearning: [
-        "JavaScript"
+        "Advanced JavaScript",
+        "Software Architecture"
     ],
 
     nextGoal: [
         "React",
-        "Portfolio Website",
+        "Mini Operating System",
         "Front-End Internship"
     ]
 };
@@ -58,9 +59,42 @@ const rushikesh = {
 
 # 🚀 Featured Projects
 
+## 🛒 JavaScript Amazon Clone ⭐
+
+A fully interactive Amazon-inspired e-commerce application built using **HTML, CSS, and Vanilla JavaScript**.
+
+### Features
+
+* 🛍️ Product catalog
+* 🛒 Shopping cart
+* ➕ Update cart quantities
+* 🚚 Delivery options
+* 💳 Dynamic order summary
+* 💰 Payment calculations
+* 💾 Local Storage persistence
+* 📦 Modular JavaScript architecture (ES6 Modules)
+* 📱 Responsive layout
+
+🌐 **Live Demo**
+
+https://rushikesh-rane.github.io/javascript-amazon-project/
+
+💻 **Repository**
+
+https://github.com/rushikesh-rane/javascript-amazon-project
+
+---
+
 ## 🎮 RushPlays
 
 Steam-inspired gaming storefront built using HTML5 and CSS3.
+
+### Features
+
+* 🎮 Modern gaming UI
+* 📱 Responsive design
+* 🎨 CSS Grid & Flexbox
+* ✨ Interactive layout
 
 🌐 **Live Demo**
 
@@ -75,6 +109,13 @@ https://github.com/rushikesh-rane/RushPlays
 ## 🎬 RushTube
 
 Responsive YouTube-inspired homepage built using HTML5 and CSS3.
+
+### Features
+
+* ▶️ YouTube-inspired interface
+* 📱 Responsive layout
+* 🎨 CSS Grid & Flexbox
+* 📺 Video card design
 
 🌐 **Live Demo**
 
@@ -93,11 +134,13 @@ https://github.com/rushikesh-rane/RushTube
 
 ✅ CSS3
 
-🔄 JavaScript
+✅ JavaScript
+
+🔄 Advanced JavaScript Projects
 
 ⬜ React
 
-⬜ Portfolio Website
+⬜ Mini Operating System
 
 ⬜ Front-End Internship
 ```
@@ -114,9 +157,9 @@ You can view all of my recent work and commits directly on my repositories.
 
 # 📫 Connect
 
-- GitHub: https://github.com/rushikesh-rane
-- LinkedIn: https://linkedin.com/in/rushikesh-rane-dev
-- Email: rushikeshrane.dev@gmail.com
+* GitHub: https://github.com/rushikesh-rane
+* LinkedIn: https://linkedin.com/in/rushikesh-rane-dev
+* Email: [rushikeshrane.dev@gmail.com](mailto:rushikeshrane.dev@gmail.com)
 
 ---
 
